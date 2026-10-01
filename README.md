@@ -1,2 +1,2 @@
 # ScarletUtils
-Hikvision cam finder, now using 16 exploits!
+Dahua and easyn cam finder, now using 16 exploits!
